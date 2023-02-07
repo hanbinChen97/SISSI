@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SISSI_Kneipen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nagation_start">Navigation Starten</string>
+    <string name="sojourn_time">Meine aktuelle Aufenthaltszeit:</string>
+
+    <string name="tab_reco">VORSCHLAG</string>
+    <string name="tab_map">KARTE</string>
+    <string name="tab_info">INFO</string>
+    <string name="tab_rating">RATINGS</string>
+
+    <string name="loading">loading data from the server …</string>
+    <string name="content_des">content description</string>
+
+    <string name="gps_content1">GPS</string>
+    <string name="gps_content2">latitude:</string>
+    <string name="gps_content3">longitude:</string>
+
+    <string name="pub_content1">Roof Garden - Beachclub \u0026 Cocktailbar Hannover</string>
+    <string name="pub_content2">cocktailbar</string>
+
+</resources>
